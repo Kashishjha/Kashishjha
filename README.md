@@ -2,7 +2,7 @@
 
 🧠 Computer Science Student @KIIT University<br/>
 🎩 Creative Lead @Kartavya (Dramatic Society)<br/>
-⭐ I like to code and make websites while listining to sad songs:(<br/> 
+⭐ I code sometimes:(<br/> 
 🙋‍♀️Connect with me on [Linkedin](https://www.linkedin.com/in/kashish-jha-82110a264/)
 
 # 💻 Tech Stack:
